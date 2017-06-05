@@ -8,7 +8,7 @@ timer
 
 #Requirement
 -Python 2.7.x
--PyQt4
+-PySide
 
 #Usage
 ##'$ python main1.py'
