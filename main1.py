@@ -9,7 +9,7 @@ class  MainForm(PySide.QtGui.QDialog):
 		super(MainForm,self).__init__(parent)
 		self.ui=PySide.QtUiTools.QUiLoader().load('./MainDialog.ui')
 		self.establishConnection()
-        	self.initUI()
+        self.initUI()
 
     def initUI(self):
         self.is_run = False
