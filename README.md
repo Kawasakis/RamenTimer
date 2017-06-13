@@ -1,7 +1,7 @@
 timer
 ====
 
-![demoimage](./demoimage.png)
+![demoimage](./demoimage2.png)
 
 #Description
 ラーメンタイマー
